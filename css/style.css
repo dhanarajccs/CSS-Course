@@ -49,3 +49,38 @@ h2#services:hover {
     color: orange;
 }
 
+/* 
+ul {
+    color: red;
+}
+
+li:first-child {
+    color: blue;
+}
+
+li:last-child {
+    color: green;
+}
+
+li:nth-child(2) {
+    color: orange;
+} 
+*/
+
+/*
+li:only-child {
+    color: purple;
+}
+
+td:only-child {
+    color: purple;
+}
+*/
+
+#google-link:link {
+    color: blue;
+}
+
+#google-link:visited {
+    color: red;
+}
