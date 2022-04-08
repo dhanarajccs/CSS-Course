@@ -12,6 +12,7 @@
 }
 */
 
+/*
 h2 {
     color: red;
 }
@@ -19,5 +20,32 @@ h2 {
 .about-me {
     color: blue;
 }
+*/
 
+
+/*
+h2 {
+    color: red;
+}
+
+.subtitle {
+    color: blue;
+}
+
+#services {
+    color: green;
+}
+*/
+
+h2:hover {
+    color: red;
+}
+
+.subtitle {
+    color: blue;
+}
+
+h2#services:hover {
+    color: orange;
+}
 
